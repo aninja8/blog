@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "The 100DaysOfCode Challenge!"
+date:   2017-01-01 17:29:36 +0530
+categories: jekyll update
+---
+Everyday I wake up with immense longing to write code. I long to key in those thousands of lines of statements and conditions that loop through my brain. I want to be in the middle of something happening. Something exciting. When I key in those lines of code I feel like a creator. I want to create products that help people. I truly want to be a part of a revolution that makes people's lives better. But everyday I don't do any of these. So this year I have decided to stop whining and start coding. I came across this article in medium https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b#.eu000ui41 and decided to give it a shot. I am going to do this. I am going to unlearn and relearn CS, specifically, DS, Algorithms, AI, and also explore working on some side projects. In this page you will find my daily logs for the next hundred days of learning and hacking. I really hope at the end of this, I would be better at programming and be happier. Join me in 100DaysOfCode Challenge.
